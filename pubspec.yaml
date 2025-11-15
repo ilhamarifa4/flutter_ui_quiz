@@ -1,0 +1,13 @@
+name: flutter_ui_quiz_final
+description: Full Flutter UI quiz project
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
